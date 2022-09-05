@@ -10,8 +10,8 @@ link to [software carpentry site](https://icomse.github.io/example-template)
 
 **Other Resources**
 
-link to [other resources](/icomse-V3/other-resources)
+link to [other resources](/icomse-V4/other-resources)
 
 **Contributing**
 
-link to [contributing](/icomse-V3/contributing)
+link to [contributing](/icomse-V4/contributing)

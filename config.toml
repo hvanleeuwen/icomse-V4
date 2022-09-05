@@ -1,4 +1,4 @@
-baseURL = 'https://hvanleeuwen.github.io/icomse-V3'
+baseURL = 'https://hvanleeuwen.github.io/icomse-V4'
 languageCode = 'en-us'
 title = 'I-CoMSE'
 theme = "ananke"
@@ -22,7 +22,7 @@ tag = "tags"
   decision-on-application = "decision-on-applications"
   registration = "registrations"
   contact_info = "contact_info"
-  ph = "ph"  
+  ph = "ph"
   material = "materials"
   instruction = "instructions"
   lesson = "lessons"

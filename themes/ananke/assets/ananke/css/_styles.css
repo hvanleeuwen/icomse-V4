@@ -428,6 +428,24 @@ and (max-device-width : 1024px) {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
+	.teams-button-overview {
+	width: 100%;
+    height: auto !important;
+    display: inline !important;
+    align-items: center;
+    justify-content: center;		
+	}
+
+	.team-overview .pa4 {
+		width:auto !important;
+		margin-left:10px;
+	}
+
+.workshops-button, .teams-button, .resources-button {
+	padding-top:10px;
+	padding-bottom:0;
+}
+	
 	.pb7, 	.pv5 {
 		padding:0;
 	}

@@ -1,20 +1,5 @@
 {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
 {{ define "main" }}
-  {{ if eq .Title "About" }}
-<div class="announcements-overview"> 
-  <div class="flex-l mt2 w-70-ns center">
-    <article class="center cf pv5 ph3 ph4-ns">
-      <header>
-        <h1 class="barlow flex-none darkblue">
-          {{ .Title }}
-        </h1>
-      </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
- <p>{{ .Content }}</p>
-      </div>
-
-{{ end }}
-
 
   {{ if eq .Title "Forums" }}
 <div class="announcements-overview"> 
@@ -62,11 +47,9 @@
       </div>
     </article>
   </div>
-{{ end }}
+{{else}}
 
-
-  {{ if eq .Title "Resources" }}
-<div class="announcements-overview"> 
+<div class="{{ .Title }}-overview"> 
   <div class="mt2 w-70-ns center">
     <article class="cf pv5 ph3 ph4-ns">
       <header>

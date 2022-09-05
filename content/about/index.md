@@ -15,10 +15,13 @@ Over the course of next four years, we plan to implement suitable governance and
 
 The Institute aims to provide an inclusive and supporting environment for everyone regardless of age, gender, background, race, and national origin. Participants (in-person or virtual) are expected to contribute to an inclusive learning environment, including respect for different viewpoints, using welcoming language, and giving and receiving constructive feedback. Please view our diversity and inclusion statement there (link to separate new simple text page).
 
-[Legal disclaimer](http://localhost:1313/icomse/legal).  
-[Code of conduct](link).  
-[Forums/mailing list](link).  
-[Donate](link)  
+[Legal disclaimer](../legal-disclaimer).  
+
+[Code of conduct](../code-conduct).  
+
+[Forums/mailing list](../forum).
+
+[Donate](../donate).  
 
 For general information email info@i-comse.org.
 

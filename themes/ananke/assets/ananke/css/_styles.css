@@ -368,7 +368,7 @@ padding:2rem 0 2rem 0;
     background-position: center;	
 }
 	.bg-top .pv3 {
-		padding-top:0.9rem;
+		padding-top:1rem;
 	}
 .bg-none {
 	height:auto;
@@ -377,10 +377,10 @@ padding:2rem 0 2rem 0;
 	padding:0;
 }
 .pv3 {
-	padding-top:1.3rem;
+	padding-top:1.5rem;
 }
 .pa4-ns {
-	padding-top:0;
+	padding-top:0.7rem;
 }
 .pv6 {
 	padding:0;
@@ -393,14 +393,24 @@ padding:2rem 0 2rem 0;
 	padding-right: 0.5rem;
 	padding-bottom:0;
 }	
+
+.posts-top .pl0 li {
+	padding-bottom: 1rem;
+	padding-top:0.9rem;
+}
+
 .pl0 li {
 	padding-bottom: 1rem;
+	padding-top:0.75rem;
 }
 .pv3 {
 	padding-bottom:0;
 }
 .mr3 {
 }
+	.team-overview .pa4 {
+		width:45%;
+	}
 @media only screen 
 and (min-device-width : 481px) 
 and (max-device-width : 1024px) {

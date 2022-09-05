@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "What is i-CoMSE?"
 background: "false"
 menu: "true"
 ---

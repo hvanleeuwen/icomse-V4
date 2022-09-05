@@ -340,11 +340,17 @@ padding:2rem 0 2rem 0;
 .bg-top {
     background-position: center;	
 }
+	.bg-top .pv3 {
+		padding-top:1.1rem;
+	}
 .bg-none {
 	height:90px;
-background: rgb(32,61,82);
-background: linear-gradient(180deg, rgba(32,61,82,1) 0%, rgba(41,82,106,1) 100%);
+	background: rgb(54,103,193);
+	background: linear-gradient(180deg, rgba(54,103,193,1) 0%, rgba(121,159,228,1) 42%, rgba(133,166,227,1) 100%);
 	padding:0;
+}
+.pv3 {
+	padding-top:1.3rem;
 }
 .pa4-ns {
 	padding-top:0;

@@ -408,9 +408,10 @@ padding:2rem 0 2rem 0;
 }
 .mr3 {
 }
-	.team-overview .pa4 {
-		width:45%;
-	}
+
+.team-overview .pa4 {
+	width:45%;
+}
 @media only screen 
 and (min-device-width : 481px) 
 and (max-device-width : 1024px) {

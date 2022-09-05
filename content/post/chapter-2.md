@@ -4,7 +4,7 @@ when: "20 july 2022"
 featured_image: "/images/msstate.jpg"
 background: "false"
 menu: "true"
-title: "Applications are open for DFT for Catalysis Summer School"
+title: "Applications are open for DFT for Catalysis Summer School."
 ---
 
 {{< img src="msstate.jpg" title="Institute of Computational Molecular Science Education" >}}

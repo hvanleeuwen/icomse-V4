@@ -362,12 +362,13 @@ padding:2rem 0 2rem 0;
 }
 .logobox {
 	padding-right:5%;
+	margin-top:-5px;
 }
 .bg-top {
     background-position: center;	
 }
 	.bg-top .pv3 {
-		padding-top:1.1rem;
+		padding-top:0.9rem;
 	}
 .bg-none {
 	height:auto;

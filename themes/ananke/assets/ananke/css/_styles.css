@@ -368,7 +368,7 @@ padding:2rem 0 2rem 0;
     background-position: center;	
 }
 	.bg-top .pv3 {
-		padding-top:1rem;
+		padding-top:0rem;
 	}
 .bg-none {
 	height:auto;
@@ -377,7 +377,7 @@ padding:2rem 0 2rem 0;
 	padding:0;
 }
 .pv3 {
-	padding-top:1.5rem;
+	padding-top:0rem;
 }
 .pa4-ns {
 	padding-top:0.7rem;
@@ -396,7 +396,7 @@ padding:2rem 0 2rem 0;
 
 .posts-top .pl0 li {
 	padding-bottom: 1rem;
-	padding-top:0.9rem;
+	padding-top:0.4rem;
 }
 
 .pl0 li {
